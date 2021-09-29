@@ -19,7 +19,15 @@ body {
   width: 400px;
 }
 
-.welcome_form {
+.restart{
+  text-decoration: none;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+  border-radius: .5rem;
+  position: absolute;
+  bottom: 5%;
+  left: 47.2%;
 }
 
 .welcome_form input,
